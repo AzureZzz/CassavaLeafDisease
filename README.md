@@ -1,5 +1,5 @@
 # CassavaLeafDisease
-This project is for the competition of Cassava Leaf Disease Classification in kaggle.
+This project is for the competition of **Cassava Leaf Disease Classification** in kaggle.
 
 Competition Link:https://www.kaggle.com/c/cassava-leaf-disease-classification/overview
 
